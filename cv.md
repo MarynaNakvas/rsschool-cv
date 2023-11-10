@@ -1,19 +1,22 @@
 # Maryna Nakvas
 ![CV Photo](/photo/photo-cv.jpg)
 ## Frontend Developer
----
+
 ## Contact Information
+
 **Phone:** +48 510 412 663\
 **E-mail:** nakvas.maryna@gmail.com\
 **Discord:** maryna_nakvas\
 [**LinkedIn**](linkedin.com/in/marinanakvas)\
-[**Github**](https://github.com/MarynaNakvas)\
----
+[**Github**](https://github.com/MarynaNakvas)
+
 ## Brief Self-Introduction
+
 Results-driven frontend developer with 3.5+ years of professional experience. I am passionate about creating user-friendly, accessible, and responsive web applications using modern technologies. Have a solid knowledge of developing modern responsive web applications. I'm self-motivated, can work in a team and prioritize.\
 I like running, hiking in the mountains, walking in the forest and reading good books.
----
+
 ## Skills
+
 * HTML, CSS, SASS/SCSS preprocessors, Responsive layouts (Flexbox, CSS Grid)
 * JavaScript, TypeScript
 * React (React Hooks, React Router, MaterialUI)
@@ -23,8 +26,9 @@ I like running, hiking in the mountains, walking in the forest and reading good 
 * Webpack, ESLint, Stylelint
 * Git / GitHub / GitLab / Azure DevOps
 * JIRA, Estimation, Mentoring
----
+
 ## Code Example
+
 ```
 const updatedAddendaChanges = Object.entries(groupedAddendas).map(
     ([key, groupAddendas]: AchTemplateChangeAddenda[]) => {
@@ -48,8 +52,9 @@ const updatedAddendaChanges = Object.entries(groupedAddendas).map(
     },
   );
 ```
----
+
 ## Work Experience
+
 **Sep 2020 – Present time – Frontend Developer, HiQo Solutions, Inc.**
 - **Responsibilities:**
     - Client-side UI development
@@ -65,8 +70,9 @@ const updatedAddendaChanges = Object.entries(groupedAddendas).map(
 
 **Jul 2020 – Aug 2020 – Trainee Frontend developer, HiQo Solutions, Inc.**\
 **Aug 2013 – Jun 2020 - Sales Manager, OBKgroup**
----
+
 ## Education
+
 **Feb 2020 – May 2020 – IT Academy**
 Course: Web application development with React & Angular _(final score: 9)_
 Description: React, Redux, Git, GitHub, Webpack, Babel, JSX, Jest, Enzyme
@@ -86,8 +92,9 @@ Course: Basics of programming
 **2007 - 2013 – Minsk High Radioengineering College**
 Specialization: Information technology software
 Achievements: honors degree, average score: 9,0
----
+
 ## Languages
+
 * English - B1 (Intermediate)
 * Russian - Native speaker
 * Polish - A2 (Elementary)
