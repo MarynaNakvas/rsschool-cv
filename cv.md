@@ -73,24 +73,24 @@ const updatedAddendaChanges = Object.entries(groupedAddendas).map(
 
 ## Education
 
-**Feb 2020 – May 2020 – IT Academy**
-Course: Web application development with React & Angular _(final score: 9)_
+**Feb 2020 – May 2020 – IT Academy**\
+Course: Web application development with React & Angular _(final score: 9)_\
 Description: React, Redux, Git, GitHub, Webpack, Babel, JSX, Jest, Enzyme
 TypeScript, Angular
 
-**Oct 2019 – Jun 2020 – IT Academy**
-Course: Web application development with JavaScript _(final score: 9)_
+**Oct 2019 – Jun 2020 – IT Academy**\
+Course: Web application development with JavaScript _(final score: 9)_\
 Description: JavaScript, OOP, DOM, SVG, Canvas, Timer, JSON, AJAX, SPA
 
-**Jul 2019 – Sep 2020 – IT Academy**
-Course: Website development with HTML, CSS & JavaScript _(final score: 9)_
+**Jul 2019 – Sep 2020 – IT Academy**\
+Course: Website development with HTML, CSS & JavaScript _(final score: 9)_\
 Description: HTML5, CSS3, Adaptive layout, Animation, Flexbox
 
-**Feb 2019 – May 2019 – hexlet.io**
+**Feb 2019 – May 2019 – hexlet.io**\
 Course: Basics of programming
 
-**2007 - 2013 – Minsk High Radioengineering College**
-Specialization: Information technology software
+**2007 - 2013 – Minsk High Radioengineering College**\
+Specialization: Information technology software\
 Achievements: honors degree, average score: 9,0
 
 ## Languages
